@@ -1,3 +1,8 @@
 {
-  "version": "0.0.2-beta"
+  "version": "0.0.2-beta",
+  "bin": "ik.exe",
+  "description": "Modern CLI key manager",
+  "homepage": "https://github.com/ronakgh97/ironkeys",
+  "url": "https://github.com/ronakgh97/ironkeys/releases/download/0.0.2-beta/ik.exe",
+  "hash": "D677A08B4B9A1829D8ECA76D6F75C28DE4E1986C3B1DBEA025CD30BC972F1BEA"
 }
